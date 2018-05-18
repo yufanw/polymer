@@ -2,7 +2,7 @@
   "name": "polymer",
   "version": "4.0.0",
   "description": "A starting point for Polymer apps",
-  "author": "The Polymer Authors",
+  "author": "The Polymer Authors, Yufan Wang",
   "license": "BSD-3-Clause",
   "repository": "Polymer/polymer-starter-kit",
   "scripts": {
